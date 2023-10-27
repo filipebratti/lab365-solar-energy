@@ -69,7 +69,7 @@ const Login = () => {
             <div className="row">
                 <div className="col-md-6 left-box">
                     <div className="featured-img">
-                        <img src="../src/assets/LoginImagem/imagemeolicasolar.png  " alt="imagem de um sistema solar com um sistema eolico" />
+                        <img src="/imagemeolicasolar.png  " alt="imagem de um sistema solar com um sistema eolico" />
                     </div>
                 </div>
 
@@ -77,7 +77,7 @@ const Login = () => {
                     <div className="row align-items-center">
                         <div className="col-md-12 d-flex justify-content-center align-items-center logo">
                             <img
-                                src="../src/assets/LoginImagem/logo.png"
+                                src="/logo.png"
                                 alt="logo solar energy"
                             />
                         </div>
